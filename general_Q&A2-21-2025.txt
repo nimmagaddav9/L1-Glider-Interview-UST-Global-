@@ -1,0 +1,47 @@
+
+Introduction:
+
+I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3,
+JavaScript, Angular 18, React.js, and Redux. 
+In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
+Frontend is React, and used ATMOS (Own library) components used company wide.
+
+Worked on Security features for users where they can manage there account like Forgot password, Forgot MileagePlus number, 
+security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and 
+KTN(Known Traveler Number), Accessibility guidelines features on united.com.
+
+used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
+
+The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
+
+Previously worked with Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc for bank users like Wells Fargo,  Bank of America, etc
+
+Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
+
+At Cerner Corporation worked on the medical examination forms.
+
+In Office Depot worked on black Friday reporting.
+
+Satinos Technologies created a tax portal and a schoomin website for the Vignan schools.
+
+======================================================================================
+
+What is your strengths?
+
+1. Strong understanding of React fundamentals
+"I have a solid understanding of React’s core principles such as the virtual DOM, state, props, and component lifecycle. I’m comfortable building reusable components and managing component states using hooks like useState, useEffect, and useContext."
+
+2. Component-based architecture and reusability
+"I believe strongly in the power of component-driven development. I focus on writing modular, reusable components that are easy to maintain and scale. This approach helps reduce duplication of code and makes debugging easier."
+
+3. Performance optimization
+"I’m experienced in optimizing React applications for performance. For example, I use techniques like lazy loading, memoization with React.memo and useMemo, and code-splitting to improve loading times and responsiveness."
+
+4. Familiarity with modern front-end tools
+"I’m proficient in integrating React with modern tools and libraries such as React Router for routing, Redux or Zustand for state management, and Styled Components or Tailwind CSS for styling. Additionally, I’m comfortable using build tools like Webpack, Babel, and testing libraries such as Jest and React Testing Library."
+
+5. Problem-solving and debugging skills
+"I excel at identifying and solving problems within React applications, whether it’s related to performance, state management, or UI bugs. I’m comfortable using Chrome DevTools and React Developer Tools for debugging and optimizing."
+
+6. Collaborative mindset and code quality
+"I emphasize collaboration and code quality. I follow best practices for clean, readable code and like to adhere to design patterns. I also enjoy participating in code reviews, as it helps me learn from others and improve my skills while contributing to the overall team’s success."
