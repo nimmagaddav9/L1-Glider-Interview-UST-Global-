@@ -1,0 +1,27 @@
+Tell me about yourself? experience with React.
+
+What is a hook? which hook did you use?
+
+What is virtual DOM?
+
+
+
+What is event loop in node.js?
+
+==================
+
+MCQ questions
+
+1.   '2' + 3 + 4 what is the output in Javascript?
+
+2. how do you convert string to integer? ParseInt()
+
+3. In node.js which function performs asynchronous calls?
+In Node.js, asynchronous operations are primarily handled using callbacks, Promises, and the async/await syntax.
+
+4. In retail industry, which is more important?
+
+5. 
+
+
+
