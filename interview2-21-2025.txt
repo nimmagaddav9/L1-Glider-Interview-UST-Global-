@@ -57,6 +57,24 @@ In Node.js, asynchronous operations are primarily handled using callbacks, Promi
 In React, both props and state are essential concepts which are used to manage and control the behavior and appearance of components. 
 Props or properties are used to pass data between the components (parent to child, child to parent, between siblings etc.).
 
+5. Explain the use of 'key' in react list
+Keys allow you to provide each list element with a stable identity. The keys should be unique.
 
+6. What is Context?
+React context helps you to pass data using the tree of react components. It helps you to
+share data globally between various react components.
 
+7. What is the use of Webpack?
+Webpack in basically is a module builder. It is mainly runs during the development process.
 
+8. Explain the term synthetic events
+It is actuallya cross-browser wrapper around the browser’s native event. These events
+have interface stopPropagation() and preventDefault().
+
+9. What is the difference between Shadow DOM and Virtual DOM?
+The Shadow DOM is a browser technology designed primarily for scoping variables and CSS in web components. 
+The Virtual DOM is a concept implemented by libraries in JavaScript on top of browser APIs.
+
+10. What is Jest?
+Jest is a JavaScript unit testing framework created by Facebook based on Jasmine and provides automated mock creation and a 
+jsdom environment. It's often used for testing components
