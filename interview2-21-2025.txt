@@ -1,27 +1,62 @@
-Tell me about yourself? experience with React.
+1. Tell me about yourself? experience with React.
 
-What is a hook? which hook did you use?
+I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3,
+JavaScript, Angular 18, React.js, and Redux. 
+In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
+Frontend is React, and used ATMOS (Own library) components used company wide.
 
-What is virtual DOM?
+Worked on Security features for users where they can manage there account like Forgot password, Forgot MileagePlus number, 
+security questions, Sign-in features, Miles-Pooling, United Club pass,  Recent Activity, dashboard updates and 
+KTN(Known Traveler Number), Accessibility guidelines features on united.com.
+
+used middleware such as redux-saga to handle asynchronous tasks such as API calls, data fetching, and impure actions in a more organized and efficient way.
+
+The new initiative worked on Miles-Pooling( points you get after traveling), TSA Precheck, Account security and management features, and Under18.
+
+Previously worked with Accelerator team for Visa Inc. remediation of MBDA modules like Application Management, Account Management, Portfolio Management, Analytics, Recurring billing, Virtual Terminal, etc for bank users like Wells Fargo,  Bank of America, etc
+
+Capital Group worked on DAVIS Project. Davis stands for Data visualization where we build different highcharts using react and integrate into the AEM., the backend is Java. Previously I worked on Creative Workbench, a writing tool where articles are published on capital group websites.
+
+At Cerner Corporation worked on the medical examination forms.
+
+In Office Depot worked on black Friday reporting.
+
+Satinos Technologies created a tax portal and a schoomin website for the Vignan schools.
 
 
 
-What is event loop in node.js?
+2. What is a hook? which hook did you use?
+
+Hooks are functions that let you “hook into” React state and lifecycle features from function components.
+Hooks don't work inside classes — they let you use React without classes.
+
+3. What is virtual DOM?
+
+A "virtual DOM" is a lightweight, in-memory representation of a web page's actual DOM (Document Object Model), 
+used by JavaScript frameworks like React to optimize rendering performance by efficiently calculating only the necessary updates
+to the real DOM instead of manipulating it directly every time a change occurs;
+
+4. What is event loop in node.js?
+
+The event loop is a crucial mechanism in Node.js that enables it to perform non-blocking I/O operations, despite running on a single thread.
+It continuously monitors the call stack and the event queue, executing tasks accordingly.
 
 ==================
 
 MCQ questions
 
-1.   '2' + 3 + 4 what is the output in Javascript?
+1.   '2' + 3 + 4 what is the output in Javascript? "234"
 
 2. how do you convert string to integer? ParseInt()
 
 3. In node.js which function performs asynchronous calls?
 In Node.js, asynchronous operations are primarily handled using callbacks, Promises, and the async/await syntax.
 
-4. In retail industry, which is more important?
+4. In retail industry, What is most important in React?
 
-5. 
+In React, both props and state are essential concepts which are used to manage and control the behavior and appearance of components. 
+Props or properties are used to pass data between the components (parent to child, child to parent, between siblings etc.).
+
 
 
 
